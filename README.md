@@ -87,3 +87,69 @@
 <p align="center"> 
   <img src="https://visitcount.itsvg.in/api?id=atifatul&icon=0&color=0" alt="Views" />
 </p>
+
+
+<h1 align="center">Hi there, I'm Md Atif Reyyani 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Next.js+Enthusiast;Spy+Automation+Expert;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/md-atif-reyyani" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/AtifReyyani" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
+<a href="mailto:atifatul752@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+### 🚀 About Me
+- 🔭 **Current Work:** Developing a **Spy Automation Project** — focused on intelligence and automation.
+- 🌱 **Learning Path:** Masterclass in **Next.js 14** and **TypeScript**.
+- 💼 **Job Status:** I am **actively looking for opportunities** where I can build impactful web apps.
+- 💬 **Expertise:** Ask me about React, Node.js, or why automation is the future.
+- 😄 **Pronouns:** Mr. / He
+- ⚡ **Fun Fact:** I believe clean code is like a good joke—it doesn't need an explanation.
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Skills |
+| :--- | :--- |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Backend** | ![Node](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+
+---
+
+### 📊 GitHub Statistics & Activity
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=atifatul&theme=highcontrast&show_icons=true&count_private=true&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atifatul&theme=highcontrast&layout=compact&hide_border=false" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=atifatul&theme=highcontrast&hide_border=false" />
+</p>
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?username=atifatul&color_snake=%2338B2AC&color_dots=%23ebedf0%2C%239be9a8%2C%2340c463%2C%2330a14e%2C%23216e39" alt="snake" />
+</p>
+
+---
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=atifatul&theme=radical&no-frame=false&margin-w=4" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=atifatul&icon=0&color=0" alt="Views" />
+  <br>
+  <i>Profile Views Counter</i>
+</p>
