@@ -153,3 +153,69 @@
   <br>
   <i>Profile Views Counter</i>
 </p>
+
+<h1 align="center">Hi there, I'm Md Atif Reyyani 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Next.js+Enthusiast;Spy+Automation+Expert;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
+---
+
+### 🚀 About Me
+- 🔭 **Current Project:** Working on **Spy Automation Project** (Data Intelligence).
+- 🌱 **Currently Learning:** Mastering **Next.js 14 App Router** & **TypeScript**.
+- 💼 **Career Goal:** Looking for a challenging role as a **Frontend/Full-stack Developer**.
+- 📧 **Reach Me:** [atifatul752@gmail.com](mailto:atifatul752@gmail.com)
+
+---
+
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nextjs,tailwind,nodejs,mongodb,express,git,github,vercel,vite,postman,docker" />
+</p>
+
+---
+
+### 📈 GitHub Activities
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=atifatul&theme=highcontrast&show_icons=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atifatul&theme=highcontrast&layout=compact" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=atifatul&theme=highcontrast" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=atifatul&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🏆 Achievements & Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=atifatul&theme=darkhub&no-frame=false&margin-w=4" />
+</p>
+
+---
+
+### 🐍 Contribution Snake Game
+<p align="center">
+  <img src="https://raw.githubusercontent.com/atifatul/atifatul/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+<p align="center"><i>Note: If the snake is missing, make sure you have a GitHub Action set up to generate it.</i></p>
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/md-atif-reyyani" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/AtifReyyani" target="blank"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+<a href="https://instagram.com/atif_atul_" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=atifatul&icon=0&color=0" />
+</p>
